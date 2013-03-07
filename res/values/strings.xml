@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drodino</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_do">Do </string>
+    <string name="note_re">Re </string>
+    <string name="note_mi">Mi </string>
+    <string name="note_fa">Fa </string>
+    <string name="note_sol">Sol </string>
+    <string name="note_la">La </string>
+    <string name="note_si">Si </string>
+    
+
+</resources>
